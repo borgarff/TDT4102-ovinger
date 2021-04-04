@@ -1,0 +1,22 @@
+{
+    // Using the lldb debugger. Works with vscodium
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Build and Run Debug",
+            "type": "lldb",
+            "request": "launch",
+            "program": "${workspaceFolder}/Debug/program",
+            "args": [],
+            "preLaunchTask": "Build Debug Executable"
+        },
+        {
+            "name": "Build and Run Release",
+            "type": "lldb",
+            "request": "launch",
+            "program": "${workspaceFolder}/Release/program",
+            "args": [],
+            "preLaunchTask": "Build Release Executable"
+        }
+    ]
+}
