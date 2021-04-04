@@ -1,0 +1,2 @@
+Du bør bruke inputDouble i deloppgave 2e fordi programmet spør etter et desimaltall, og ikke et heltall.
+Det kan skape problemer med konverteringen hvis du bruker inputInteger istedenfor inputDouble.

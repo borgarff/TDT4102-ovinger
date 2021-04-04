@@ -1,0 +1,5 @@
+Oppgave 1d
+Jeg valgte å bruke inputAndPrintInteger i deloppgave c.
+Dette er på grunn av at jeg liker å ha minst mulig i main() funksjonen.
+Også for å holde main mest mulig ryddig.
+Det er heller ikke nødvendig å returnere en verdi i denne oppgaven.

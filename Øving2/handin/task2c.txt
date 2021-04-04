@@ -1,0 +1,6 @@
+I deloppgave a er en for-løkke best. Fordi det gir midre linjer med kode, 
+enn en while-løkke. En while-løkken kunne også ha blitt brukt.
+
+I deloppagve b brukte jeg en do-while-løkke.
+Dette er fordi programmet skal kjøre igjennom løkken minst en gang,
+og brukerne skal kunne gå ut av løkken når dem vil.
