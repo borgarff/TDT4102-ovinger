@@ -1,0 +1,12 @@
+Survey results 2021:
+ ----------------------------
+bra , 13
+fantastisk , 4
+forferdelig , 7
+gøy , 2
+interessant , 6
+kjedelig , 3
+lærerikt , 12
+morsomt , 6
+utfordrende , 11
+vanskelig , 8
